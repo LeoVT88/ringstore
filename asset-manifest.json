@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/ringstore/static/js/main.13796d80.js",
+    "main.js": "/ringstore/static/js/main.72983837.js",
     "static/media/backgroundimage.png": "/ringstore/static/media/backgroundimage.fb37988222e35dd6d46a.png",
     "static/media/backgroundpattern.png": "/ringstore/static/media/backgroundpattern.9b90d46a88fdf8164399.png",
     "static/media/logo.svg": "/ringstore/static/media/logo.e18c0c57e7b21ea70970e3e9dcce0fc8.svg",
     "static/media/account.svg": "/ringstore/static/media/account.7cd98b64041ec46ed00eed57ad4d0a63.svg",
     "index.html": "/ringstore/index.html",
     "static/media/favorites.svg": "/ringstore/static/media/favorites.249710dced90ba8f461c4706e3907065.svg",
-    "main.13796d80.js.map": "/ringstore/static/js/main.13796d80.js.map"
+    "main.72983837.js.map": "/ringstore/static/js/main.72983837.js.map"
   },
   "entrypoints": [
-    "static/js/main.13796d80.js"
+    "static/js/main.72983837.js"
   ]
 }
